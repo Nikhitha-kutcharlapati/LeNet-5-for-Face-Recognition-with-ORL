@@ -1,6 +1,6 @@
 # LeNet-5 for Face Recognition with ORL
 
-This implements a slightly modified LeNet-5 [LeCun et al., 1998a] and achieves an accuracy of ~95% on the [ORL dataset](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html).
+This implements a slightly modified LeNet-5 [LeCun et al., 1998a] and achieves an accuracy of ~98.75% on the [ORL dataset](http://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html).
 
 ## Environment
 
